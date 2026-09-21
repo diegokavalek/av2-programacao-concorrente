@@ -1,0 +1,7 @@
+tamanho,ids,threads,tempo_segundos,termino,linhas_log,status
+pequena,50,1,1.1158139000181109,normal,50,sucesso
+pequena,50,4,0.16869260021485388,normal,50,sucesso
+media,200,1,1.2118867000099272,normal,200,sucesso
+media,200,4,0.35726079996675253,normal,200,sucesso
+grande,500,1,2.8801095001399517,normal,500,sucesso
+grande,500,4,0.7731804000213742,normal,500,sucesso
